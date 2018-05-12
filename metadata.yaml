@@ -1,5 +1,8 @@
 _repo: Un-bon-petit-diable_12993
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Ségur, Sophie, comtesse de
@@ -17,6 +20,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Sophie_Rostopchine%2C_comtesse_de_S%C3%A9gur
     - http://en.wikipedia.org/wiki/Sophie_Rostopchine%2C_Comtesse_de_S%C3%A9gur
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12993#Un-bon-petit-diable
 gutenberg_bookshelf: FR Jeunesse
 gutenberg_issued: '2004-07-22'
 gutenberg_type: Text
